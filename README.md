@@ -1,2 +1,3 @@
 # IndexDemo
-This is my practice repo
+This is my practice repository.
+Author: Divyalochan Mangaraj
